@@ -1,44 +1,81 @@
-# һЩ����
+# 一些资料
 
 ## BOOK
 
-[�ڿ��뻭�ң����İ棩](Book/�ڿ��뻭�ң����İ棩.pdf)
+[黑客与画家（中文版）](Book/黑客与画家（中文版）.pdf)
 
-[����Ͱ�Java�����ֲ�](Book/����Ͱ�Java�����ֲ�.pdf)
+[阿里巴巴Java开发手册](Book/阿里巴巴Java开发手册.pdf)
 
-[�㷨�½�-������](Book/�㷨�½�-������.pdf)
+[算法新解-刘新宇](Book/算法新解-刘新宇.pdf)
 
-[GitHub������ʵ��](Book/GitHub������ʵ��.pdf)
+[GitHub入门与实践](Book/GitHub入门与实践.pdf)
 
-[LinuxShell�ű�����](Book/LinuxShell�ű�����.pdf)
+[LinuxShell脚本攻略](Book/LinuxShell脚本攻略.pdf)
 
-[������֮·-����Ͱʹ�����ʵ��](Book/������֮·-����Ͱʹ�����ʵ��.pdf)
+[大数据之路-阿里巴巴大数据实践](Book/大数据之路-阿里巴巴大数据实践.pdf)
 
-[Spark���ٴ����ݷ���](Book/Spark���ٴ����ݷ���.pdf)
+[Spark快速大数据分析](Book/Spark快速大数据分析.pdf)
 
-[����ѧϰʵս](Book/����ѧϰʵս.pdf)
+[机器学习实战](Book/机器学习实战.pdf)
 
-[ͳ��ѧϰ���������](Book/ͳ��ѧϰ���������.pdf)
+[统计学习方法（李航）](Book/统计学习方法（李航）.pdf)
 
-[���ݿ�ѧʵս�ֲᣨR+PYTHON��](Book/���ݿ�ѧʵս�ֲᣨR+PYTHON��.pdf)
+[数据科学实战手册（R+PYTHON）](Book/数据科学实战手册（R+PYTHON）.pdf)
 
-[���ѧϰ](Book/���ѧϰ.pdf)
+[深度学习](Book/深度学习.pdf)
 
-[�����������ѧϰ���ӣ�SimonHaykin](Book/�����������ѧϰ���ӣ�SimonHaykin.pdf)
+[神经网络与机器学习（加）SimonHaykin](Book/神经网络与机器学习（加）SimonHaykin.pdf)
 
-[�����������ѧϰ������MichaelNielsen](Book/�����������ѧϰ������MichaelNielsen.pdf)
+[神经网络与深度学习（美）MichaelNielsen](Book/神经网络与深度学习（美）MichaelNielsen.pdf)
 
-[d2l-zh������ѧ���ѧϰ��](Book/d2l-zh������ѧ���ѧϰ��.pdf)
+[d2l-zh（动手学深度学习）](Book/d2l-zh（动手学深度学习）.pdf)
 
-[�Ƽ�ϵͳʵ��](Book/�Ƽ�ϵͳʵ��.pdf)
+[推荐系统实践](Book/推荐系统实践.pdf)
 
-[PRML��ģʽʶ�������ѧϰ�����İ棩](Book/PRML��ģʽʶ�������ѧϰ�����İ棩.pdf)
+[PRML：模式识别与机器学习（中文版）](Book/PRML：模式识别与机器学习（中文版）.pdf)
 
-[�������ѧϰ�㷨����ʦ����ȥ����](Book/�������ѧϰ�㷨����ʦ����ȥ����.pdf)
-
-
+[百面机器学习算法工程师带你去面试](Book/百面机器学习算法工程师带你去面试.pdf)
 
 
+
+| Description                 | Dates                     | Hours | Rate | Amount | YTD Hours | YTD Amount |
+|-----------------------------|---------------------------|-------|------|--------|-----------|------------|
+| 2NDSHIFT                    |                           | 8     | 2    | 16.00  | 52        | 104.00     |
+| 2NDSHIFT                    |                           |       |      | 11.5   |           | 34.50      |
+| 2NDSHIFT                    | 11/19/2023 - 12/02/2023   | 10.5  | 75.00| 53.25  | 29        | 398.50     |
+| ADJ GROS                    |                           | 0     | 0    | 0.00   | 0         | 0.00       |
+| ADJ GROS                    |                           | 0     | 0    | 0.00   | 0         | 0.00       |
+| Bonus                       |                           | 3     | 0    | 3.00   |           | 3.00       |
+| Bonus                       |                           | 0     | 0    | 0.00   |           | 0.00       |
+| Comp Val OT                 |                           |       |      |        |           |            |
+| Con Educ                    |                           | 0     | 0    | 0.00   | 0         | 0.33       |
+| GTL                         | 11/19/2023 - 11/25/2023   | 0     | 0    |        |           |            |
+| HOL PREM                    | 11/19/2023 - 11/25/2023   | 12.5  | 15.5 | 193.75 | 37.5      | 581.68     |
+| INSERV ED                   |                           | 0     | 0    | 0.00   |           | 0.00       |
+| NPROD OT                    |                           |       |      |        | 7         | 325.52     |
+| ONA SENIORITY H111/19/2023 - 12/02/2023 | 1851     | 0    | 0.00   | 0         | 0.00       |
+| ORIENT                      |                           | 0     | 0    | 315.5  | 9         | 710.00     |
+| Overtime                    |                           | 0     | 0    | 240.75 | 13        | 3,705.63   |
+| OVERTIME                    | 11/19/2023 - 12/02/2023   | 31    | 10.25| 476.63 | 63        | 1,478.65   |
+| PREM $30                    |                           | 1     |      | 236.34 | 8         | 980.00     |
+| PREM $20                    |                           |       |      |        |           |            |
+| PREM $40                    |                           |       |      |        |           |            |
+| PREM $50                    |                           |       |      |        |           |            |
+| Regular                     | 11/19/2023 - 12/02/2023   | 48    | 31   | 1,448.00| 1469.3   | 46,451.75  |
+| Regular No Accrual 11/19/2023 - 12/02/2023 | 3.8  | 31   | 744.00 |           |            |
+| Shift $5                    | 11/19/2023 - 12/02/2023   | 40    | 31   | 204.00 | 1463      | 7,446.00   |
+| UPTO                        | 11/19/2023 - 12/02/2023   | 24    | 31   | 744.00 | 24        | 744.00     |
+|                             | Earnings                  |       |      |        |           |            |
+
+| Description                 | Amount | YTD      |
+|-----------------------------|--------|----------|
+| OASDI                       |        | 5,070.41 |
+| Medicare                    |        | 1,185.82 |
+| Federal Withholding         |        | 7,196.29 |
+| State Tax - OH              |        | 2,444.16 |
+| City Tax - AKRON            |        | 2,044.53 |
+|                             |        |          |
+| Employee Taxes              |        | 21,697.00|
 
 
 
